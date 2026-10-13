@@ -1,0 +1,15 @@
+## Visual Studio / C# ignore
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## C++ ignore
+*.vcxproj.user
+Debug/
+Release/
+x64/
+x86/
