@@ -1,0 +1,10 @@
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.csproj.AssemblyReference.cache
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.Form1.resources
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.Properties.Resources.resources
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.csproj.GenerateResource.cache
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.csproj.CoreCompileInputs.cache
+D:\IT106\FormDangKi\FormDangKi\bin\Debug\FormDangKi.exe.config
+D:\IT106\FormDangKi\FormDangKi\bin\Debug\FormDangKi.exe
+D:\IT106\FormDangKi\FormDangKi\bin\Debug\FormDangKi.pdb
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.exe
+D:\IT106\FormDangKi\FormDangKi\obj\Debug\FormDangKi.pdb
