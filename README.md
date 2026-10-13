@@ -2,6 +2,18 @@
 
 Ứng dụng Windows Forms quản lý người dùng với SQL Server: Đăng nhập, Đăng ký và Trang chủ.
 
+# Các thành viên:
+
+## 👥 Danh sách thành viên
+
+| STT | MSSV | Họ và tên | Phân công dự kiến |
+|:---:|---|---|---|
+| 1 | 25521671 | Đoàn Hữu Thắng | Tổng hợp, kiểm thử, chạy demo và viết báo cáo |
+| 2 | 25521758 | Chung Quốc Thịnh | Database |
+| 3 | 25520903 | Ngô Hoàng Minh Khôi | Form Đăng nhập |
+| 4 | 25520374 | Nguyễn Tuấn Dũng | Form Trang Chính |
+| 5 | 25521016 | Ngô Tấn Lộc | Form Đăng kí |
+
 ## Cấu trúc Project
 
 ```text
